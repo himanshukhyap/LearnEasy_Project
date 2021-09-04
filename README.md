@@ -1,2 +1,2 @@
-# LearnEasy_Project
+# LearnEasy
 Created with CodeSandbox

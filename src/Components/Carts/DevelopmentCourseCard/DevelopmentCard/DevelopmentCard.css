@@ -1,0 +1,74 @@
+.development {
+  width: 260px;
+  margin: auto;
+  position: relative;
+  height: 145px;
+  border: 1px solid #d1d7dc;
+}
+.developmentcpccard.card {
+  flex-direction: initial;
+  margin: auto;
+  border: none;
+}
+.developmentcpccardtitle.card-title.h5 {
+  margin: auto;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+.cardbodydevelopmentcard.card-body {
+  justify-content: space-between;
+  display: flex;
+}
+.cardbodyinnerdiv2 {
+  font-weight: 700;
+}
+p.developmentcpccardtext1.card-text {
+  padding-top: 2px;
+  padding-bottom: 2px;
+  margin: auto;
+}
+p.developmentcpccardtext2.card-text {
+  padding-top: 1px;
+  padding-bottom: 1px;
+  margin: auto;
+}
+p.developmentcpccardtext4.card-text span:nth-child(1) {
+  color: #b4690e;
+  margin-right: 7px;
+}
+p.developmentcpccardtext4.card-text span:nth-child(2) {
+  color: #b4690e;
+  margin-right: 7px;
+}
+p.developmentcpccardtext4.card-text span:nth-child(3) {
+  margin-left: 7px;
+}
+p.developmentcpccardtext4.card-text {
+  padding-top: 0;
+  margin: auto;
+}
+p.developmentcpccardtext3.card-text {
+  margin: auto;
+  /* padding: 0; */
+  display: flex;
+}
+p.developmentcpccardtext3.card-text span:nth-child(1) {
+  display: flex;
+  margin: 0;
+}
+p.developmentcpccardtext3.card-text span:nth-child(2) ul {
+  display: flex;
+  margin: 0;
+  padding: 0;
+}
+p.developmentcpccardtext3.card-text span:nth-child(2) ul li {
+  margin-left: 21px;
+  vertical-align: middle;
+}
+img.card-img-top.development {
+  width: auto;
+}
+.developmentCoursePageCart a {
+  color: black;
+  text-decoration: none;
+}
